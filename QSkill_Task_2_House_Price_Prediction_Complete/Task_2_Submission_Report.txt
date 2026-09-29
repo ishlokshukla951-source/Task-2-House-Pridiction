@@ -1,0 +1,22 @@
+QSkill Python Development Internship – Task 2
+House Price Prediction using Linear Regression
+
+Objective: Predict house sale prices using selected housing features.
+
+Features: OverallQual, GrLivArea, GarageCars, TotalBsmtSF, FullBath, YearBuilt
+Target: SalePrice
+
+Workflow:
+1. Load CSV with Pandas
+2. Inspect data and missing values
+3. Split into train/test sets
+4. Train Linear Regression
+5. Evaluate using MAE, RMSE and R²
+6. Visualize actual vs predicted prices
+7. Generate an example prediction
+
+Files:
+- house_price_prediction.ipynb
+- house_prices_train_selected.csv
+- README.md
+- Task_2_Submission_Report.txt
